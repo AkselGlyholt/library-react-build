@@ -3,7 +3,7 @@ import Footer from "./components/Footer.jsx";
 import Home from "./pages/Home.jsx";
 import Books from "./pages/Books.jsx";
 import BookInfo from "./pages/BookInfo.jsx";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-router-dom";
 import { books } from "./data.js";
 import Cart from "./pages/Cart.jsx";
 import React, { useState } from "react";
@@ -74,6 +74,7 @@ function App() {
         <Nav numberOfItems={numberOfItems()} />
         <Routes>
           <Route path="/" exact element={<Home />} />
+          <Route path="/library-react-build" exact element={<Home />} />
           <Route path="/books" exact element={<Books books={books} />} />
           <Route
             path="/books/:id"
