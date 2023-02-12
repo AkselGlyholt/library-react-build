@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/library-react-build/static/css/main.7a1fd073.css",
-    "main.js": "/library-react-build/static/js/main.093203c8.js",
+    "main.js": "/library-react-build/static/js/main.9df02b4e.js",
     "static/js/787.066d04b7.chunk.js": "/library-react-build/static/js/787.066d04b7.chunk.js",
     "static/media/Undraw_Books.svg": "/library-react-build/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
     "static/media/Library.svg": "/library-react-build/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
@@ -9,11 +9,11 @@
     "index.html": "/library-react-build/index.html",
     "static/media/wave.svg": "/library-react-build/static/media/wave.42edd5970e3619090a0f.svg",
     "main.7a1fd073.css.map": "/library-react-build/static/css/main.7a1fd073.css.map",
-    "main.093203c8.js.map": "/library-react-build/static/js/main.093203c8.js.map",
+    "main.9df02b4e.js.map": "/library-react-build/static/js/main.9df02b4e.js.map",
     "787.066d04b7.chunk.js.map": "/library-react-build/static/js/787.066d04b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a1fd073.css",
-    "static/js/main.093203c8.js"
+    "static/js/main.9df02b4e.js"
   ]
 }
